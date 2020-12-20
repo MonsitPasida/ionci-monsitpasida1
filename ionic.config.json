@@ -1,0 +1,7 @@
+{
+  "name": "monsitpasida",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
